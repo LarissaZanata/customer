@@ -1,12 +1,8 @@
-# customer
-Microserviço Customer
-
-
 <h1 align="center">Microserviço Customer</h1>
 
 ## Como Executar
 
-Siga estas etapas para executar o **Nome do seu Microserviço** localmente:
+Siga estas etapas para executar o microserviço customer localmente:
 
 1. Pré-requisitos: Certifique-se de ter instalado o JDK 11 (ou superior) e o Apache Maven em sua máquina.
 2. Clone este repositório: `git clone https://github.com/seu-usuario/seu-microservico.git`
