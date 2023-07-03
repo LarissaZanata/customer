@@ -1,5 +1,9 @@
 <h1 align="center">Microserviço Customer</h1>
 
+<div align="center">
+<img src="https://github.com/LarissaZanata/order/assets/31900224/8fc6e8f3-249a-4ca0-8359-bb7c07177752" width="700px" />
+</div>
+
 ## Como Executar
 
 Siga estas etapas para executar o microserviço customer localmente:
